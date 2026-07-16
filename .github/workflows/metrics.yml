@@ -24,9 +24,3 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: user
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: no
-          plugin_achievements_limit: 5
-          plugin_achievements_ignored: manager
